@@ -1,1 +1,1 @@
-# python_for_beginners-inW3scholl
+# python_for_beginners-inW3school
